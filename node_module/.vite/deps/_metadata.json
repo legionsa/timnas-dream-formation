@@ -1,0 +1,67 @@
+{
+  "hash": "f5966a8b",
+  "configHash": "c45f9b84",
+  "lockfileHash": "d7ca3e2c",
+  "browserHash": "7072a4fc",
+  "optimized": {
+    "react": {
+      "src": "../../react/index.js",
+      "file": "react.js",
+      "fileHash": "320a7e38",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "d43fd25a",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "d187334f",
+      "needsInterop": true
+    },
+    "html-to-image": {
+      "src": "../../html-to-image/es/index.js",
+      "file": "html-to-image.js",
+      "fileHash": "dbb5709d",
+      "needsInterop": false
+    },
+    "lucide-react": {
+      "src": "../../lucide-react/dist/esm/lucide-react.js",
+      "file": "lucide-react.js",
+      "fileHash": "cd902446",
+      "needsInterop": false
+    },
+    "react-dnd": {
+      "src": "../../react-dnd/dist/index.js",
+      "file": "react-dnd.js",
+      "fileHash": "9b661bec",
+      "needsInterop": false
+    },
+    "react-dnd-html5-backend": {
+      "src": "../../react-dnd-html5-backend/dist/index.js",
+      "file": "react-dnd-html5-backend.js",
+      "fileHash": "75e7f6bb",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "442a1b04",
+      "needsInterop": true
+    }
+  },
+  "chunks": {
+    "chunk-6PXSGDAH": {
+      "file": "chunk-6PXSGDAH.js"
+    },
+    "chunk-DRWLMN53": {
+      "file": "chunk-DRWLMN53.js"
+    },
+    "chunk-G3PMV62Z": {
+      "file": "chunk-G3PMV62Z.js"
+    }
+  }
+}
